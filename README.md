@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Everyone! 👋
+💻 I am currently learning Software Development with Northcoders
 
 <!--
 **amyf211/amyf211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
