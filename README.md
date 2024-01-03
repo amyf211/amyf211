@@ -1,4 +1,4 @@
-### Hi Everyone! 👋
+👋 Hi Everyone! 
 💻 I am currently learning Software Development with Northcoders
 
 <!--
