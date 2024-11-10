@@ -1,6 +1,5 @@
 👋 Hi Everyone! 
-💻 I am currently learning Software Development with Northcoders
-
+After studying Software Development at Northcoders, I am now working on personal projects and using the skills I've learned on freelance projects as I build my own business!
 <!--
 **amyf211/amyf211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
